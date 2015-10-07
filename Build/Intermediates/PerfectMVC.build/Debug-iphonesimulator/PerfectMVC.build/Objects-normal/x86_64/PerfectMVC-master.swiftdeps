@@ -1,0 +1,10 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "4ae1e27a7bec3d4c0132245451f837f8"
+inputs: 
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/WebViewController.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/AppDelegate.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/QiitaListView.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/HMTableView.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/QitaListViewController.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/QiitaViewModel.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/seminar/syukudai/yamasaki/text/PerfectMVC/sample2/WebApi.swift"
